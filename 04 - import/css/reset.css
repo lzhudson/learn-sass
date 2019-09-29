@@ -1,0 +1,10 @@
+/* line 1, ../../../../xampp/htdocs/Github/learn-sass/04 - import/scss/reset.scss */
+html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=reset.css.map */

@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss",
+		"../scss/reset.scss"
+	],
+	"sourcesContent": [
+		"@import 'reset';\r\nbody {\r\n  font: 100% Helvetica, sans-serif;\r\n  background-color: red;\r\n}",
+		"html,\r\nbody,\r\nul,\r\nol {\r\n  margin: 0;\r\n  padding: 0;\r\n}"
+	],
+	"names": [],
+	"mappings": ";ACAA,AAAA,IAAI;AACJ,IAAI;AACJ,EAAE;AACF,EAAE,CAAC;EACD,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACX;;;ADLD,AAAA,IAAI,CAAC;EACH,IAAI,EAAE,0BAA0B;EAChC,gBAAgB,EAAE,GAAG;CACtB"
+}

@@ -1,0 +1,16 @@
+/* line 1, ../../../../xampp/htdocs/Github/learn-sass/04 - import/scss/reset.scss */
+html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 2, ../../../../xampp/htdocs/Github/learn-sass/04 - import/scss/style.scss */
+body {
+  font: 100% Helvetica, sans-serif;
+  background-color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
