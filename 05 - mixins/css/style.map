@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"$bg-primary: crimson;\r\n@mixin transform($property) {\r\n  -webkit-transform: $property;\r\n  -ms-transform: $property;\r\n  transform: $property;\r\n}\r\n.box {\r\n  @include transform(rotate(30deg));\r\n  width: 500px;\r\n  height: 500px;\r\n  background-color: $bg-primary;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAMA,AAAA,IAAI,CAAC;EAJH,iBAAiB,EAKE,aAAa;EAJhC,aAAa,EAIM,aAAa;EAHhC,SAAS,EAGU,aAAa;EAChC,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,gBAAgB,EAVL,OAAO;CAWnB"
+}

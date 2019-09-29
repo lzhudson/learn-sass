@@ -1,0 +1,11 @@
+/* line 7, ../../../../xampp/htdocs/Github/learn-sass/05 - mixins/scss/style.scss */
+.box {
+  -webkit-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  transform: rotate(30deg);
+  width: 500px;
+  height: 500px;
+  background-color: crimson;
+}
+
+/*# sourceMappingURL=style.css.map */
