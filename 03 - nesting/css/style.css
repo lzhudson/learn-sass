@@ -1,0 +1,20 @@
+/* line 2, ../../../../xampp/htdocs/Github/learn-sass/nesting/scss/style.scss */
+nav ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 7, ../../../../xampp/htdocs/Github/learn-sass/nesting/scss/style.scss */
+nav li {
+  display: inline-block;
+}
+
+/* line 10, ../../../../xampp/htdocs/Github/learn-sass/nesting/scss/style.scss */
+nav a {
+  display: block;
+  padding: 5 10px;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */
