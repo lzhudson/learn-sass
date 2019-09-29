@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"$preto: #999;\r\ndiv {\r\n  background: $preto;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AACA,AAAA,GAAG,CAAC;EACF,UAAU,EAFJ,IAAI;CAGX"
+}
