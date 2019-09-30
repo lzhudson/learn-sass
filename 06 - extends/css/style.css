@@ -1,0 +1,23 @@
+/* line 1, ../../../../xampp/htdocs/Github/learn-sass/06 - extends/scss/style.scss */
+.message, .sucess, .error, .warning {
+  border: 10px solid #ccc;
+  padding: 10px;
+  color: #333;
+}
+
+/* line 13, ../../../../xampp/htdocs/Github/learn-sass/06 - extends/scss/style.scss */
+.sucess {
+  border-color: green;
+}
+
+/* line 17, ../../../../xampp/htdocs/Github/learn-sass/06 - extends/scss/style.scss */
+.error {
+  border-color: red;
+}
+
+/* line 21, ../../../../xampp/htdocs/Github/learn-sass/06 - extends/scss/style.scss */
+.warning {
+  border-color: yellow;
+}
+
+/*# sourceMappingURL=style.css.map */

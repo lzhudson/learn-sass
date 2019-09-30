@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"%message-shared {\r\n  border: 10px solid #ccc;\r\n  padding: 10px;\r\n  color: #333;\r\n}\r\n%equals-height {\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n}\r\n.message {\r\n  @extend %message-shared;\r\n}\r\n.sucess {\r\n  @extend %message-shared;\r\n  border-color: green;\r\n}\r\n.error {\r\n  @extend %message-shared;\r\n  border-color: red;\r\n}\r\n.warning {\r\n  @extend %message-shared;\r\n  border-color: yellow;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AASA,AATA,QASQ,EAGR,OAAO,EAIP,MAAM,EAIN,QAAQ,CApBQ;EACd,MAAM,EAAE,eAAe;EACvB,OAAO,EAAE,IAAI;EACb,KAAK,EAAE,IAAI;CACZ;;;AAQD,AAAA,OAAO,CAAC;EAEN,YAAY,EAAE,KAAK;CACpB;;;AACD,AAAA,MAAM,CAAC;EAEL,YAAY,EAAE,GAAG;CAClB;;;AACD,AAAA,QAAQ,CAAC;EAEP,YAAY,EAAE,MAAM;CACrB"
+}
