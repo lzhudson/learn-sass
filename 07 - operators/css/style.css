@@ -1,0 +1,22 @@
+/* line 3, ../../../../xampp/htdocs/Github/learn-sass/default-folder copy/scss/style.scss */
+.container {
+  width: 100%;
+}
+
+/* line 6, ../../../../xampp/htdocs/Github/learn-sass/default-folder copy/scss/style.scss */
+article[role="main"] {
+  float: left;
+  width: 62.5%;
+  background: blue;
+  height: 500px;
+}
+
+/* line 12, ../../../../xampp/htdocs/Github/learn-sass/default-folder copy/scss/style.scss */
+article[role="complementary"] {
+  float: right;
+  width: 31.25%;
+  background: red;
+  height: 500px;
+}
+
+/*# sourceMappingURL=style.css.map */

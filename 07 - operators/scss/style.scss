@@ -1,0 +1,17 @@
+$primary-color: red;
+$secondary-color: blue;
+.container {
+  width: 100%;
+}
+article[role="main"] {
+  float: left;
+  width: 600px / 960px * 100%;
+  background: $secondary-color;
+  height: 500px;
+}
+article[role="complementary"] {
+  float: right;
+  width: 300px / 960px * 100%;
+  background: $primary-color;
+  height: 500px;
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"$primary-color: red;\r\n$secondary-color: blue;\r\n.container {\r\n  width: 100%;\r\n}\r\narticle[role=\"main\"] {\r\n  float: left;\r\n  width: 600px / 960px * 100%;\r\n  background: $secondary-color;\r\n  height: 500px;\r\n}\r\narticle[role=\"complementary\"] {\r\n  float: right;\r\n  width: 300px / 960px * 100%;\r\n  background: $primary-color;\r\n  height: 500px;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAEA,AAAA,UAAU,CAAC;EACT,KAAK,EAAE,IAAI;CACZ;;;AACD,AAAA,OAAO,CAAA,AAAA,IAAC,CAAK,MAAM,AAAX,EAAa;EACnB,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,KAAoB;EAC3B,UAAU,EAPM,IAAI;EAQpB,MAAM,EAAE,KAAK;CACd;;;AACD,AAAA,OAAO,CAAA,AAAA,IAAC,CAAK,eAAe,AAApB,EAAsB;EAC5B,KAAK,EAAE,KAAK;EACZ,KAAK,EAAE,MAAoB;EAC3B,UAAU,EAdI,GAAG;EAejB,MAAM,EAAE,KAAK;CACd"
+}
